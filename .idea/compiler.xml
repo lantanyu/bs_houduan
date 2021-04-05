@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="gateway7101" />
+        <module name="orderservice7004" />
+        <module name="userservice7002" />
+        <module name="cloud-api-commons" />
+        <module name="gateway7102" />
+        <module name="productservice" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
